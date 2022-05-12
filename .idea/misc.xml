@@ -5,16 +5,19 @@
       <map>
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.290625" />
+        <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_bottle.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_google_pixel_4__4xl___1.xml" value="0.290625" />
+        <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_home_header.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_iphone_12_pro_max___1.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_launcher_background.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_login.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/ic_spashlogo.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/drawable/round1.xml" value="0.290625" />
-        <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/layout/activity_splashscreen.xml" value="0.176" />
+        <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/layout/header_layout.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.290625" />
         <entry key="..\:/Users/rosha/AndroidStudioProjects/H2OFit/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15729166666666666" />
       </map>
