@@ -20,7 +20,7 @@ public class SplashScreen extends AppCompatActivity {
             @Override
             public void run() {
                 // This method will be executed once the timer is over
-                Intent i = new Intent(SplashScreen.this, Home.class);
+                Intent i = new Intent(SplashScreen.this, Login.class);
                 startActivity(i);
                 finish();//to not to return to splash screen on back touch
             }
