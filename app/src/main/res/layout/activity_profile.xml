@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".profile">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="178dp"
+        android:layout_marginTop="62dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginBottom="39dp"
+        android:text="Your Profile"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/Huawei_id"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/Huawei_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="174dp"
+        android:layout_marginTop="292dp"
+        android:layout_marginEnd="174dp"
+        android:layout_marginBottom="15dp"
+        android:text="Huawei Id"
+        app:layout_constraintBottom_toTopOf="@+id/User_name_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/User_name_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="187dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginBottom="15dp"
+        android:text="Name"
+        app:layout_constraintBottom_toTopOf="@+id/email_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Huawei_id" />
+
+    <TextView
+        android:id="@+id/email_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="180dp"
+        android:layout_marginBottom="15dp"
+        android:text="Email Id"
+        app:layout_constraintBottom_toTopOf="@+id/gender_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/User_name_view" />
+
+    <TextView
+        android:id="@+id/gender_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="183dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="184dp"
+        android:layout_marginBottom="15dp"
+        android:text="Gender"
+        app:layout_constraintBottom_toTopOf="@+id/password_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/email_view" />
+
+    <TextView
+        android:id="@+id/password_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="99dp"
+        android:text="Password"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gender_view" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
